@@ -19,7 +19,7 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Removed the . in front of the headers */
 header h1 .seo {
     color: #d9dcd6;
 }
@@ -188,6 +188,7 @@ p {
     font-size: 36px;
 }
 
+/* Removed the . in front of footer */
 footer {
     padding: 30px;
     clear: both;
